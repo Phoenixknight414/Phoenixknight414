@@ -31,17 +31,18 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/joseph-shine" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:josephshine6182004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/joseph-shine" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+ <a href="https://instagram.com/_phoenix__knight_" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-⭐️ From [Joseph Shine](https://github.com/joseph-shine)
+⭐️ From [Joseph Shine](https://github.com/Phoenixknight414)
